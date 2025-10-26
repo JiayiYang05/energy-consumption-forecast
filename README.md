@@ -16,33 +16,32 @@
 ### 1. Import Data
 
 <div align="center">
-  <img src="assets/maze_construction.gif" width="600" />
-  
-  *Animated random maze construction.*
+  <img src="assets/import-data.png" width="80%" />
+  <img src="assets/import-data2.png" width="80%" />
+  <img src="assets/feature-creation-1.png" width="40%" />
+  <img src="assets/feature-creation-2.png" width="40%" />
 </div>
 
 ### 2. Preprocessing
 
 <div align="center">
-  <img src="assets/maze_construction.gif" width="600" />
-  
-  *Animated random maze construction.*
+  <img src="assets/outliners.png" width="80%" />
+  <img src="assets/train-test-split.png" width="70%" />
+
 </div>
 
 ### 3. Train & Evaluate Model
 
 <div align="center">
-  <img src="assets/maze_construction.gif" width="600" />
-  
-  *Animated random maze construction.*
+  <img src="assets/prediction-1.png" width="80%" />
+  <img src="assets/prediction-2.png" width="80%" />
+  <img src="assets/feature-importance.png" width="60%" />
 </div>
 
 ### 4. Predict
 
 <div align="center">
-  <img src="assets/maze_construction.gif" width="600" />
-  
-  *Animated random maze construction.*
+  <img src="assets/prediciton.png" width="70%" />
 </div>
 
 
